@@ -33,6 +33,12 @@
   "name": "courses-med",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "35BA07F8-7C51-4E84-BF1B-484605538779",
+      "overrideName": "10CAC9C8-D2B1-430F-BE7C-89DE97D2B714_stringValue",
+      "value": "CATEGORÍA"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

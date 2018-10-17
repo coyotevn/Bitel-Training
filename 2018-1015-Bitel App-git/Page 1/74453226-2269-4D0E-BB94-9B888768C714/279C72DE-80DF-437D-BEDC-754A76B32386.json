@@ -32,7 +32,7 @@
         "location": 0
       }
     ],
-    "string": "Bookmark"
+    "string": "Marcador"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,11 +52,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 14,
-    "width": 55,
-    "x": 672,
+    "width": 51,
+    "x": 674,
     "y": 121
   },
-  "glyphBounds": "{{1, 2}, {53, 10}}",
+  "glyphBounds": "{{1, 2}, {50, 10}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Bookmark",
+  "name": "Marcador",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

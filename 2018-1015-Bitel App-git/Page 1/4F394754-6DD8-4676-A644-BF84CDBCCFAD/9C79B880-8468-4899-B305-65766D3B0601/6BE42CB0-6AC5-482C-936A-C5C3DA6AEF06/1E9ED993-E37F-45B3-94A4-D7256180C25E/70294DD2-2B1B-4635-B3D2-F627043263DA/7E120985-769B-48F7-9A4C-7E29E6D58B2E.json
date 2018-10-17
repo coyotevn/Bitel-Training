@@ -33,7 +33,7 @@
         "location": 0
       }
     ],
-    "string": "FINISHED"
+    "string": "COMPLETO"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -59,7 +59,7 @@
     "x": 0,
     "y": 33.33333333333334
   },
-  "glyphBounds": "{{1, 3}, {55, 10}}",
+  "glyphBounds": "{{0, 3}, {65, 10}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,7 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "FINISHED",
+  "name": "COMPLETO",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

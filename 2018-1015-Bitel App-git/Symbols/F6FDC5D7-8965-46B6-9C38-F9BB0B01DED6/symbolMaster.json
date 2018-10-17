@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "F35D9D01-313F-44CE-BEE3-86791590DE0A",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 312,
+  "clippingMaskMode": 0,
+  "do_objectID": "F6FDC5D7-8965-46B6-9C38-F9BB0B01DED6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "551B6DA9-5BE8-4725-8AB8-B3F2D0D32B4A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B53B489F-1D8E-4B9A-841B-BF1066955BA4",
+    "height": 22,
+    "width": 26,
+    "x": 1969,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0B5114F0-312C-4EDC-B5E3-62EAC7475C38",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "FEE08037-3460-4D09-8DC0-1D9093198A66"
+    }
+  ],
+  "name": "3points/ search",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "927625C5-B43D-4AEB-AB64-D9F02B6A81F2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "819E7DB0-43CD-4266-AA36-C606B6EA44FA",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1C840384-A0D5-4231-84B8-F1581D49605A",
+    "guides": [
+    ]
+  }
+}

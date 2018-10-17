@@ -68,10 +68,6 @@
       "id": "6E78AAF2-21BA-47D0-84EC-B7597F94FB2D"
     },
     {
-      "class": "group",
-      "id": "9224579A-0611-4CF3-A51D-101264930D67"
-    },
-    {
       "class": "text",
       "id": "679687D4-A350-4EB2-BA3E-630AC02BBB78"
     },
@@ -142,6 +138,10 @@
     {
       "class": "text",
       "id": "E81D1FCA-5EBB-4D18-8F79-9D4724DE47E2"
+    },
+    {
+      "class": "group",
+      "id": "9F871248-85B1-4B8F-86B8-BBB47B891AF7"
     }
   ],
   "layout": {

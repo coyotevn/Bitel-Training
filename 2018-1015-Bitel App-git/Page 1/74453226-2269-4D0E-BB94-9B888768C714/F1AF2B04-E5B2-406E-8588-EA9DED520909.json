@@ -32,7 +32,7 @@
         "location": 0
       }
     ],
-    "string": "2 of 10"
+    "string": "2 de 10"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,11 +54,11 @@
     "constrainProportions": false,
     "do_objectID": "5981FD3F-1EA6-429A-9990-7D9AA26EF9A1",
     "height": 14,
-    "width": 37,
-    "x": 681,
+    "width": 39,
+    "x": 680,
     "y": 310
   },
-  "glyphBounds": "{{0, 2}, {36, 10}}",
+  "glyphBounds": "{{0, 2}, {38, 10}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "2 of 10",
+  "name": "2 de 10",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

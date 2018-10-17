@@ -17,10 +17,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "70CD886F-E90D-4C08-B8EC-C3EF2ECD3239",
-    "height": 425,
+    "height": 644,
     "width": 288,
     "x": 8,
-    "y": 110
+    "y": 0
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -28,7 +28,7 @@
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
-  "isVisible": true,
+  "isVisible": false,
   "layerListExpandedType": 2,
   "layers": [
     {
@@ -66,6 +66,10 @@
     {
       "class": "symbolInstance",
       "id": "16D7ED9B-4CAC-4D20-AB97-BAFBBFE44AA5"
+    },
+    {
+      "class": "rectangle",
+      "id": "F2499991-B82F-409B-B68C-9F07DDCB40B5"
     }
   ],
   "name": "Text Labels",

@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 5,
+        "length": 9,
         "location": 0
       }
     ],
-    "string": "Share"
+    "string": "Compartir"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,11 +54,11 @@
     "constrainProportions": false,
     "do_objectID": "E8578BB0-0956-4DB8-8534-249E1B4CB22D",
     "height": 14,
-    "width": 32,
-    "x": 683,
+    "width": 54,
+    "x": 672,
     "y": 247
   },
-  "glyphBounds": "{{0, 2}, {31, 10}}",
+  "glyphBounds": "{{0, 2}, {54, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Share",
+  "name": "Compartir",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

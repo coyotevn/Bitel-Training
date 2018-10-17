@@ -29,11 +29,11 @@
             "minimumLineHeight": 40
           }
         },
-        "length": 44,
+        "length": 42,
         "location": 0
       }
     ],
-    "string": "Your result\t\t:\nYour score\t\t:\nYour progress\t:"
+    "string": "Tu resultado\t:\nTu puntaje\t\t:\nTu progreso\t:"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -68,7 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Your result : Your s",
+  "name": "Tu resultado : Tu pu",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

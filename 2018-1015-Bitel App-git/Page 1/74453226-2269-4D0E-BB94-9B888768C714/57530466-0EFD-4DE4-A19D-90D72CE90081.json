@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 8,
+        "length": 9,
         "location": 0
       }
     ],
-    "string": "Download"
+    "string": "Descargar"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,11 +54,11 @@
     "constrainProportions": false,
     "do_objectID": "BFFA4E90-CCF4-4CC2-8D65-3D6540AFE4E2",
     "height": 14,
-    "width": 55,
-    "x": 672,
+    "width": 56,
+    "x": 671.5,
     "y": 184
   },
-  "glyphBounds": "{{1, 2}, {53, 10}}",
+  "glyphBounds": "{{1, 2}, {55, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Download",
+  "name": "Descargar",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

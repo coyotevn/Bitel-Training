@@ -31,11 +31,11 @@
             "minimumLineHeight": 16
           }
         },
-        "length": 15,
+        "length": 16,
         "location": 0
       }
     ],
-    "string": "POPULAR COURSES"
+    "string": "CURSOS POPULARES"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -57,11 +57,11 @@
     "constrainProportions": false,
     "do_objectID": "427AADEB-7D20-4CA0-9F0F-FE8372594E82",
     "height": 16,
-    "width": 144,
+    "width": 154,
     "x": 22,
     "y": 173
   },
-  "glyphBounds": "{{1, 3}, {140, 10}}",
+  "glyphBounds": "{{0, 3}, {151, 10}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -70,7 +70,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "POPULAR COURSES",
+  "name": "CURSOS POPULARES",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
