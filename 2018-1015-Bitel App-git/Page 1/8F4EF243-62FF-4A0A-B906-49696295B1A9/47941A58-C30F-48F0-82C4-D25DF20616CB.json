@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "47941A58-C30F-48F0-82C4-D25DF20616CB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "430E0C77-AA3F-4770-A44F-15A2F7D6F616",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0F661273-8931-4680-9F1B-3DAF208E420C",
+    "height": 24,
+    "width": 360,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "System Bar / Base Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5211E897-156F-42F1-896A-C0B8676C6DC0",
+      "overrideName": "F98A029B-F2C0-41D1-BAE3-7F95B62BF2E1_symbolID",
+      "value": "F404794B-3210-4EE4-B17E-319FE884F321"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2CB1C425-7F51-46DB-A20A-F463C924FB7A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5E496535-8E04-46E1-B374-4ACF60452FF7",
+  "verticalSpacing": 0
+}

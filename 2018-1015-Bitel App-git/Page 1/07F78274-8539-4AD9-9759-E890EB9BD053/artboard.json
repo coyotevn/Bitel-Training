@@ -1,0 +1,167 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9686274509803922,
+    "do_objectID": "118FC005-FAB5-48B8-A321-C0EC473996AA",
+    "green": 0.9686274509803922,
+    "red": 0.9686274509803922
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "07F78274-8539-4AD9-9759-E890EB9BD053",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1BE4DC32-A823-4662-A52B-E07789DF3835",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7166D007-708F-4C25-9181-998710EBE9E6",
+    "height": 740,
+    "width": 360,
+    "x": 2588,
+    "y": -371
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "15BDC5BF-C54E-46DE-97D3-4D72C47DE9DF",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "27B28E04-AC3A-4C62-9AFA-47A8A9169541",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "8E6BA821-BDDC-42FB-AA7A-516347A88B1C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6B706A40-EA7D-439E-998D-75D4F6FB10E0"
+    },
+    {
+      "class": "rectangle",
+      "id": "BFD31431-2429-457F-8267-1BFF51CFDE9B"
+    },
+    {
+      "class": "text",
+      "id": "107028C0-424C-44A7-AA8A-FFBFC323D9DB"
+    },
+    {
+      "class": "text",
+      "id": "4C8CD2B0-C25B-4F78-BE4A-D6DF147C9BF6"
+    },
+    {
+      "class": "text",
+      "id": "9CFF9799-1887-4561-B6BD-CA05731587EB"
+    },
+    {
+      "class": "text",
+      "id": "F4B85092-12E9-4AE6-A2A5-D35449F2376A"
+    },
+    {
+      "class": "shapePath",
+      "id": "37F54CEB-74D0-4CE3-B184-A6A8313CDB3C"
+    },
+    {
+      "class": "shapePath",
+      "id": "BBBD894F-B520-43F6-BB1E-D69B4AA1D2E1"
+    },
+    {
+      "class": "text",
+      "id": "CB001F14-5B71-4AAA-8B7D-E28B87BD8D75"
+    },
+    {
+      "class": "text",
+      "id": "1AD01BCA-2C76-48C5-94EA-E22F9B90AA0E"
+    },
+    {
+      "class": "text",
+      "id": "9AB6218A-F18D-4996-A322-31AA9FCDC592"
+    },
+    {
+      "class": "text",
+      "id": "6D9B91A1-F57D-4305-ACDB-D381B1E9177A"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 50,
+    "do_objectID": "6C3435E2-E759-47FF-86AF-8FC33248D982",
+    "drawHorizontal": true,
+    "drawHorizontalLines": true,
+    "drawVertical": true,
+    "gutterHeight": 16,
+    "gutterWidth": 22,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 5,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 360
+  },
+  "name": "Course Details",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 740,
+    "name": "Galaxy S8",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F1888824-F4BE-4466-BDEB-CBCC087F382D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B898BC84-4E50-42E1-B3FC-1D6397643979",
+    "guides": [
+    ]
+  }
+}

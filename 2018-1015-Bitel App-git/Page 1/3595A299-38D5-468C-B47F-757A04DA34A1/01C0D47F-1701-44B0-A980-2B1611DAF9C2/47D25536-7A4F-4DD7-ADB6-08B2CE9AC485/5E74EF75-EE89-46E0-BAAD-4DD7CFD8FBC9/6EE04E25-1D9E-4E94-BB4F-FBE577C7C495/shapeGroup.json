@@ -1,0 +1,116 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "6EE04E25-1D9E-4E94-BB4F-FBE577C7C495",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A728A2F3-7194-4044-BBAD-1E5ECCF234D7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E2F922DD-3C27-4764-AE21-87A21C064C46",
+    "height": 55.99999999999999,
+    "width": 100,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "3801D8F5-4B32-462B-937A-79B31884C553"
+    },
+    {
+      "class": "rectangle",
+      "id": "2B4FCEC0-117D-4067-AAA3-AB19E7905BCC"
+    },
+    {
+      "class": "rectangle",
+      "id": "E06D03DF-D411-4BDB-B1A7-8CBBD791602A"
+    },
+    {
+      "class": "rectangle",
+      "id": "07823830-6A35-465E-99EC-9856230DB18E"
+    },
+    {
+      "class": "rectangle",
+      "id": "84E3BF0E-14BC-4945-BA4D-4D937B3CD779"
+    }
+  ],
+  "name": "Surface",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "sharedStyleID": "53A2FB4C-5462-404A-983B-BD0921D56DB0",
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AB019D2D-078C-4D85-8DF7-0DFF6D32ECC9",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5903220663265306,
+          "green": 0.5903220663265306,
+          "red": 0.5903220663265306
+        },
+        "fillType": 4,
+        "image": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/33a486bea75dc251355d5950a410caafaa610f2e.png",
+          "_ref_class": "MSImageData"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "photos-duplicate": {
+        "asTile": 0,
+        "items": [
+          {
+            "link": "https://sv2.bitel.com.pe/sites/default/files/2018-09/giga%2B-call-600x433.jpg",
+            "type": "src"
+          },
+          {
+            "link": "https://sv2.bitel.com.pe/sites/default/files/2018-09/Cambiate-a-Bitel-600x433.jpg",
+            "type": "src"
+          },
+          {
+            "link": "https://sv2.bitel.com.pe/sites/default/files/2018-09/home-paquetes-1200x433.jpg",
+            "type": "src"
+          }
+        ],
+        "mode": "web"
+      }
+    }
+  },
+  "windingRule": 1
+}

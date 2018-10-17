@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "24C11F77-228F-4CC6-B431-043295C99BAD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C823C0DD-CD3C-46EE-818A-1A4693D79B03",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C7FB75BB-113A-481D-A11A-5A96FB2EC470",
+    "height": 303,
+    "width": 360,
+    "x": 0,
+    "y": 141
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E3F8F84D-AA5D-4BD5-AE6C-FB183948293D"
+    },
+    {
+      "class": "group",
+      "id": "1012A164-57FD-4580-9F31-E052F59216D0"
+    },
+    {
+      "class": "group",
+      "id": "43D73905-7F8B-4504-842A-9997BC87097F"
+    }
+  ],
+  "name": "Courses 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DFFD7D8F-D611-4401-8AF7-B5A0717E0788",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

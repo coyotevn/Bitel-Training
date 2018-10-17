@@ -1,0 +1,139 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "0A8DB5C5-DE92-493B-9C4F-F7BDCEAFB6F1",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "08E6308D-7CCC-4476-B432-459D6AFE851E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1CF83AC7-342D-4096-986D-F612E2F54D8E",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "078D0481-9BF7-45D7-A239-089AA2E54E5B",
+    "height": 740,
+    "width": 360,
+    "x": 279,
+    "y": -371
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "A74E96EA-ED9A-47C6-A797-90E36B93B143",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3562263F-6D66-44CD-923B-2793ABC24DF5",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "5D05A50B-8658-4EA7-A897-702727F82E49"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AE14A21D-0CED-4438-84E9-43CAC2578B98"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "27101466-D5D5-4FA9-9CE3-686C9839076A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7A3C2BF5-2E44-47E7-9603-6D0612D70D70"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "95269FAD-A90E-4179-9621-A9EC90E55202"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4ED08A0D-E1A6-4E78-B5DC-0FCBC31E3C1C"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 50,
+    "do_objectID": "2FA09C7C-899C-4A6D-958A-3115B6DEA0BF",
+    "drawHorizontal": true,
+    "drawHorizontalLines": true,
+    "drawVertical": true,
+    "gutterHeight": 16,
+    "gutterWidth": 22,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 5,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 360
+  },
+  "name": "Profile",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 740,
+    "name": "Galaxy S8",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "51EF6DBD-5EFD-431E-8A77-740193640CE3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "551E451C-F2EF-4C11-8F1F-1BCE7E79913F",
+    "guides": [
+    ]
+  }
+}

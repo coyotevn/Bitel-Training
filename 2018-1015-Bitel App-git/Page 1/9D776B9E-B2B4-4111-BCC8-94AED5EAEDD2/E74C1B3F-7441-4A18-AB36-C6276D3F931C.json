@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E74C1B3F-7441-4A18-AB36-C6276D3F931C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "50B3D4E4-70FF-4FEF-896A-35456DE50780",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9B9DE6DF-3C43-4B4C-9E96-AF6EDE621239",
+    "height": 76,
+    "width": 328,
+    "x": 16,
+    "y": 490
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Text Field / Outlined / Active",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6EE23666-D2EA-4F79-86B3-77CCAD14EEC3",
+      "overrideName": "36018103-31C6-4EC7-A97F-C7531B7D17A1_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "40CE282D-D008-449C-86C4-3724A3D368BB",
+      "overrideName": "2754D4D9-5D26-4BCD-88E7-F61DC7A7E0D9_symbolID",
+      "value": "D6EA046F-021A-4EC6-9C13-B354282B735D"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AA525F96-FDA5-4A28-8F8D-729B3FDD22C1",
+      "overrideName": "9818CF9D-C0F0-426E-B599-4C67250A381E/62C22133-D29F-4168-9A25-2AE8C0A38A48_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "15EA1FE9-1D05-48B0-BE9E-BFC9A03AED1C",
+      "overrideName": "DF1C255A-10D0-4034-91B3-B1FA7420F1C3/17B6C92B-E096-40D0-A9A3-AF2428047033_stringValue",
+      "value": "someone@bitel.com.pe"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D06E9746-4304-4B57-BFD1-C54AAEABAF71",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "27BD574C-B4A6-4D19-B338-AC27F1099B5E",
+  "verticalSpacing": 0
+}

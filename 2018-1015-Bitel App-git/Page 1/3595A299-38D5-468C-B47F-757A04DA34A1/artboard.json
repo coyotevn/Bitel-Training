@@ -1,0 +1,171 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9686274509803922,
+    "do_objectID": "8D5C7F46-D5F4-4F84-93F7-3AB38CA81160",
+    "green": 0.9686274509803922,
+    "red": 0.9686274509803922
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3595A299-38D5-468C-B47F-757A04DA34A1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1B33D9F0-0C0C-488B-9480-052A4656A116",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "78B3F005-8C21-40EF-9B1B-9D69BF8DEC04",
+    "height": 1286,
+    "width": 360,
+    "x": 5673,
+    "y": -371
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "E6143CB6-2372-45FC-9C9D-3A9749B52901",
+    "gridSize": 8,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E033F23D-BCE9-42EC-9197-2F973C7E06D8",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "57B0809E-C661-46C1-A0CB-FECCA7A3C4B3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E20F7B65-D8A0-4915-92A2-5E944793ACC2"
+    },
+    {
+      "class": "text",
+      "id": "4AF6019B-80D2-4486-83A4-CAEDFB928804"
+    },
+    {
+      "class": "text",
+      "id": "BF8B7C15-6D0C-4FB3-A4A8-BEB2F1C5DCBE"
+    },
+    {
+      "class": "group",
+      "id": "ECA74DC4-4547-428D-88F7-5E1F969D97DD"
+    },
+    {
+      "class": "text",
+      "id": "3BE4C895-9C07-45CA-B590-5A7664D9EC22"
+    },
+    {
+      "class": "text",
+      "id": "99EDD5D2-C42F-4B5A-A5F6-DDD574A89802"
+    },
+    {
+      "class": "shapePath",
+      "id": "72417FB2-2467-4F74-AE0A-8F6584C01C65"
+    },
+    {
+      "class": "shapePath",
+      "id": "F70CD83E-19FE-4C16-802E-60611AA896B6"
+    },
+    {
+      "class": "group",
+      "id": "01C0D47F-1701-44B0-A980-2B1611DAF9C2"
+    },
+    {
+      "class": "text",
+      "id": "08E09837-6927-4A37-A24E-8AD27D4D789C"
+    },
+    {
+      "class": "group",
+      "id": "8A2DE04B-FF92-4989-AC06-118301B97D73"
+    },
+    {
+      "class": "group",
+      "id": "B9B4474C-7698-4527-B742-2F56A095E434"
+    },
+    {
+      "class": "group",
+      "id": "E5A906DA-4788-4274-98FC-D8BF23D663BE"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 50,
+    "do_objectID": "D72D2C51-9A94-4D7E-A661-23AC49C14047",
+    "drawHorizontal": true,
+    "drawHorizontalLines": true,
+    "drawVertical": true,
+    "gutterHeight": 16,
+    "gutterWidth": 22,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 5,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 360
+  },
+  "name": "Headline",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 740,
+    "name": "Galaxy S8",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "652E6A51-11DD-4F26-8E56-CF0A2014A79C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "39089EF9-A28D-4FB0-B752-F6EE1640C465",
+    "guides": [
+    ]
+  }
+}

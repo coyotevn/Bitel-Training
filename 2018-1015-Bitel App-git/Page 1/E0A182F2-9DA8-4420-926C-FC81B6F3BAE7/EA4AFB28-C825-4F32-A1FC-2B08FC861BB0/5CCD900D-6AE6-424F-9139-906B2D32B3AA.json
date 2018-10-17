@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5CCD900D-6AE6-424F-9139-906B2D32B3AA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "47041B2D-2EF4-4C23-8E94-7F784D687147",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "88D30AB0-6931-4431-8C8B-94407388B273",
+    "height": 206,
+    "width": 165,
+    "x": 181,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "small-courses",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CCB1CACF-A832-435C-A50C-E798778A75FE",
+      "overrideName": "D94D6D4F-A16B-4AE9-BC45-162BD10A0C97_stringValue",
+      "value": "The 3 Golden Rules Professional Graphic Designers Don T Want You To Know About"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "95961E7A-D759-4F2A-903C-B3F55A940C31",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "29D4FF9D-D501-4978-933D-C230EF209BBD",
+  "verticalSpacing": 0
+}

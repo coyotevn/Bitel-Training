@@ -29,11 +29,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 15,
+        "length": 14,
         "location": 0
       }
     ],
-    "string": "7/10 Completado"
+    "string": "7/10 Completed"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,11 +53,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 14,
-    "width": 96,
+    "width": 89,
     "x": 0,
     "y": 68
   },
-  "glyphBounds": "{{0, 1}, {95, 13}}",
+  "glyphBounds": "{{0, 1}, {88, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,7 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "7/10 Completado",
+  "name": "7/10 Completed",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

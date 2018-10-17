@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EC7FB33F-9BA6-4FCA-9263-DF8CB0134474",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8B29A7AB-EECB-40CF-BA23-FCE11098CA22",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2F482224-8058-4232-9058-42F97A5A446D",
+    "height": 849,
+    "width": 360,
+    "x": 0,
+    "y": -109
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "0927C58B-0153-4439-84B2-B76C45D1B535"
+    },
+    {
+      "class": "group",
+      "id": "8CC16EEE-8A1F-4378-922C-3A11AB84612F"
+    },
+    {
+      "class": "group",
+      "id": "4C14E3B7-4A9E-4BC3-B22B-944225B11A9E"
+    }
+  ],
+  "name": "Navigation Drawer / Side / Resting",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CB2CEA62-FE0A-44A0-8AC2-66DB769F083A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -29,11 +29,11 @@
             "minimumLineHeight": 16
           }
         },
-        "length": 9,
+        "length": 8,
         "location": 0
       }
     ],
-    "string": "CATEGORÍA"
+    "string": "CATEGORY"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -59,7 +59,7 @@
     "x": 0.503267973856282,
     "y": 35
   },
-  "glyphBounds": "{{0, 1}, {69, 12}}",
+  "glyphBounds": "{{0, 3}, {64, 10}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,7 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "CATEGORÍA",
+  "name": "CATEGORY",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
