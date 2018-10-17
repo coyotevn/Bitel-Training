@@ -28,11 +28,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 12,
+        "length": 9,
         "location": 0
       }
     ],
-    "string": "Recent News "
+    "string": "Novedades"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,11 +54,11 @@
     "constrainProportions": false,
     "do_objectID": "6F6061F2-E8CB-4207-9980-608698E51F8D",
     "height": 24,
-    "width": 132,
+    "width": 107,
     "x": 12,
     "y": 441
   },
-  "glyphBounds": "{{1, 4}, {125, 16}}",
+  "glyphBounds": "{{1, 4}, {105, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Recent News Copy 2",
+  "name": "Novedades",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

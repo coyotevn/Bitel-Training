@@ -68,10 +68,6 @@
       "id": "92564E72-0071-422E-B255-66FCDFEA6643"
     },
     {
-      "class": "group",
-      "id": "3A7FE157-51B4-4D52-A65F-EB56B0E85678"
-    },
-    {
       "class": "rectangle",
       "id": "786C41DD-EB28-48B5-90EF-126C424EF550"
     },
@@ -102,6 +98,10 @@
     {
       "class": "symbolInstance",
       "id": "24FDF8CD-2C33-4756-B093-28A69D7D110E"
+    },
+    {
+      "class": "group",
+      "id": "53C7E7A7-46B6-46F5-8257-5CBB5A2E1A84"
     }
   ],
   "layout": {

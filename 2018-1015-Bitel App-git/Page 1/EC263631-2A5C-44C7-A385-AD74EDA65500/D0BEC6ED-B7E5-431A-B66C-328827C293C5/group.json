@@ -16,8 +16,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 16,
-    "width": 131,
-    "x": 115,
+    "width": 162,
+    "x": 99,
     "y": 860.5
   },
   "hasClickThrough": false,
@@ -30,12 +30,8 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "text",
-      "id": "33B63DA7-6DB1-4128-889A-4C72D5200C9A"
-    },
-    {
-      "class": "text",
-      "id": "B51124E1-0840-4E33-810B-024727A06A3F"
+      "class": "group",
+      "id": "0944AE51-0CB2-4A7D-91FF-C69978B1B0B4"
     }
   ],
   "name": "Group 2",

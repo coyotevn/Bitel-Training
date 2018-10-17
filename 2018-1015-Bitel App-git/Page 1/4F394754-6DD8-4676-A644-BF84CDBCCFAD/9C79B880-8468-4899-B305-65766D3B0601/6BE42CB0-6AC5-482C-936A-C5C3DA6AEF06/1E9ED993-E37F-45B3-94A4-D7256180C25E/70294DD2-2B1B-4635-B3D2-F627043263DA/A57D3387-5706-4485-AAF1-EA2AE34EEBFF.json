@@ -29,11 +29,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 11,
+        "length": 13,
         "location": 0
       }
     ],
-    "string": "Score: 8/10"
+    "string": "Puntaje: 8/10"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -59,7 +59,7 @@
     "x": 0,
     "y": 58.21739130434781
   },
-  "glyphBounds": "{{0, 1}, {64, 12}}",
+  "glyphBounds": "{{1, 1}, {74, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,7 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Score: 8/10",
+  "name": "Puntaje: 8/10",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

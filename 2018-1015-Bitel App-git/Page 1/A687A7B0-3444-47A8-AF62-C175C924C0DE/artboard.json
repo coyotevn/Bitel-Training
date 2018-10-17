@@ -47,6 +47,10 @@
     "base": 0,
     "do_objectID": "6BF04EEC-4230-4024-992E-AD585D1F8336",
     "guides": [
+      11,
+      123,
+      235,
+      347
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -81,7 +85,7 @@
     },
     {
       "class": "group",
-      "id": "0E10387A-3CC4-4D6C-9245-1D88AE42C510"
+      "id": "717227EA-AF73-4070-9438-31509B1C54FB"
     },
     {
       "class": "symbolInstance",
@@ -131,6 +135,8 @@
     "base": 0,
     "do_objectID": "0471450E-F003-423C-A621-5A4FE575DDA6",
     "guides": [
+      469,
+      551
     ]
   }
 }

@@ -29,11 +29,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 9,
+        "length": 6,
         "location": 0
       }
     ],
-    "string": "My Scores"
+    "string": "Perfil"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -59,7 +59,7 @@
     "x": 41,
     "y": 143
   },
-  "glyphBounds": "{{12, 2}, {57, 12}}",
+  "glyphBounds": "{{26, 2}, {28, 10}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,7 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "My Scores",
+  "name": "Perfil",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

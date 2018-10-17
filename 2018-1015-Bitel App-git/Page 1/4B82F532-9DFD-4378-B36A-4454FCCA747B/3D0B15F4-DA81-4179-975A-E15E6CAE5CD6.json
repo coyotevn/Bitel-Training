@@ -83,15 +83,9 @@
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "AEC59633-788E-4555-B505-289C0FADA68B",
-      "overrideName": "FCDA0DA3-A870-495C-A003-7123E26CE1CC_symbolID",
-      "value": "7C2C2889-A863-4870-B6E1-CE4957C454F0"
-    },
-    {
-      "_class": "overrideValue",
       "do_objectID": "BC944D6E-C526-47A5-A9ED-4101A0116686",
       "overrideName": "44C9305B-7E47-4199-A400-441E0AF519C5/DB35D82B-BF5E-4F51-9168-E0D6A5358736_stringValue",
-      "value": "Notifications"
+      "value": "Notificaciones"
     },
     {
       "_class": "overrideValue",

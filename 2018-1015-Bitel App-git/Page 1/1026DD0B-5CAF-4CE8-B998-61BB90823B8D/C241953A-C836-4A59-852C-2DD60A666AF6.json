@@ -29,7 +29,7 @@
             "minimumLineHeight": 20
           }
         },
-        "length": 25,
+        "length": 34,
         "location": 0
       },
       {
@@ -58,11 +58,11 @@
             "minimumLineHeight": 20
           }
         },
-        "length": 100,
-        "location": 25
+        "length": 68,
+        "location": 34
       }
     ],
-    "string": "You've failed the test! \nYou are not ready to move on to the next exams. Please review the course, and retake the exam later."
+    "string": "Usted ha desaprobado el examen \r\n\nPor favor vuelva a revisar el curso y reintente dar el examen luego."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -84,11 +84,11 @@
     "constrainProportions": false,
     "do_objectID": "BFE7B99C-7F34-423D-B626-186F0AF1DB66",
     "height": 80,
-    "width": 263,
+    "width": 286,
     "x": 60,
     "y": 200
   },
-  "glyphBounds": "{{0, 4}, {253, 72}}",
+  "glyphBounds": "{{0, 4}, {234, 75}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -97,7 +97,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "You've failed the te",
+  "name": "Usted ha desaprobado",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

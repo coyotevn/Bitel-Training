@@ -33,33 +33,27 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "1364EA68-2961-4FF0-824D-3F40E97EE8BF",
-      "overrideName": "F2DBC41D-C987-4B1F-B1AB-491886F4D217_symbolID",
-      "value": "D6EA046F-021A-4EC6-9C13-B354282B735D"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "D7A52D46-E76E-4F76-B215-41F5AC0D6146",
-      "overrideName": "46287150-A150-450F-9263-725ED415E23F/6204EA1A-6F42-4991-8748-D1B87479FF2F_stringValue",
-      "value": " "
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "D29F7150-1D8F-4C11-A5CE-21B91F34A460",
-      "overrideName": "60882B7E-6AD1-4B62-B757-A2DB1D488C1E/47EDEAB5-B6AE-44AF-B6C9-197F450AE9B7_stringValue",
-      "value": "someone@bitel.com.pe"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "2503062F-D848-4C3B-9F23-23296AE94929",
-      "overrideName": "EC2FA490-6DAF-4B0B-A654-ACA21E6D14EC_symbolID",
+      "do_objectID": "6EE23666-D2EA-4F79-86B3-77CCAD14EEC3",
+      "overrideName": "36018103-31C6-4EC7-A97F-C7531B7D17A1_symbolID",
       "value": ""
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "4AF66823-3FE6-41E9-804A-19931E409A85",
-      "overrideName": "DA222618-46C4-4875-9156-FED359A15887/6204EA1A-6F42-4991-8748-D1B87479FF2F_stringValue",
+      "do_objectID": "40CE282D-D008-449C-86C4-3724A3D368BB",
+      "overrideName": "2754D4D9-5D26-4BCD-88E7-F61DC7A7E0D9_symbolID",
+      "value": "D6EA046F-021A-4EC6-9C13-B354282B735D"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AA525F96-FDA5-4A28-8F8D-729B3FDD22C1",
+      "overrideName": "9818CF9D-C0F0-426E-B599-4C67250A381E/62C22133-D29F-4168-9A25-2AE8C0A38A48_stringValue",
       "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "15EA1FE9-1D05-48B0-BE9E-BFC9A03AED1C",
+      "overrideName": "DF1C255A-10D0-4034-91B3-B1FA7420F1C3/17B6C92B-E096-40D0-A9A3-AF2428047033_stringValue",
+      "value": "someone@bitel.com.pe"
     }
   ],
   "resizingConstraint": 63,
@@ -74,6 +68,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "042BD7B7-7FEA-49A5-BC35-E9A8076A507D",
+  "symbolID": "EFB67716-F821-4D79-91DC-C1894DF67DA8",
   "verticalSpacing": 0
 }

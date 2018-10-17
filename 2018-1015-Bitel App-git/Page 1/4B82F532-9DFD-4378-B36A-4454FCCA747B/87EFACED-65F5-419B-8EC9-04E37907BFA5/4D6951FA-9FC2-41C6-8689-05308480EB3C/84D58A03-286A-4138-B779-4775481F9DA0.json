@@ -35,7 +35,7 @@
         "location": 0
       }
     ],
-    "string": "MESSAGES"
+    "string": "MENSAJES"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -70,7 +70,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "MESSAGES",
+  "name": "MENSAJES",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

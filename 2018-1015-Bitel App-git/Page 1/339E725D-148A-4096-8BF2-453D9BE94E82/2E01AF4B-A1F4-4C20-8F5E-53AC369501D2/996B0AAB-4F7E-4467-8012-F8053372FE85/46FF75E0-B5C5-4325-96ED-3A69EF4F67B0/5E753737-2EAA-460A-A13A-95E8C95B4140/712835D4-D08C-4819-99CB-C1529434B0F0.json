@@ -33,7 +33,7 @@
         "location": 0
       }
     ],
-    "string": "Level 1"
+    "string": "Nivel 1"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -59,7 +59,7 @@
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{1, 4}, {47, 12}}",
+  "glyphBounds": "{{1, 4}, {45, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

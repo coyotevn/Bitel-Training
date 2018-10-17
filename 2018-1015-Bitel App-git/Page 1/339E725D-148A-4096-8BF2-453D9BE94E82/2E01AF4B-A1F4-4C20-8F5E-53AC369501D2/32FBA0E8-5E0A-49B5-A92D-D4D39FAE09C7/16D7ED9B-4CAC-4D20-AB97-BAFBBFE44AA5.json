@@ -20,7 +20,7 @@
     "height": 40,
     "width": 288,
     "x": 0,
-    "y": 0
+    "y": 219
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -52,7 +52,7 @@
       "_class": "overrideValue",
       "do_objectID": "2B1309F5-165B-4645-AD6C-5B8274170066",
       "overrideName": "F58B60C9-983B-4FDA-8A2B-29E6BC81741A/FC14D6BB-ECBE-418A-A63D-8C4B38CFFB9E/5B173A17-FD7A-4DE9-BDA1-C337FD05979E_stringValue",
-      "value": "Home"
+      "value": "Inicio"
     }
   ],
   "resizingConstraint": 58,

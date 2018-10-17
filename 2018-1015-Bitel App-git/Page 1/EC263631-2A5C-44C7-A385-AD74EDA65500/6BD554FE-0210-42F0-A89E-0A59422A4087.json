@@ -83,24 +83,6 @@
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "6A16FF0B-D5A7-428C-BFAF-57EE8B230FE0",
-      "overrideName": "60F3A02F-4DA8-4B7E-88CF-08D23746E65D_symbolID",
-      "value": "F0080FBE-E010-4A02-A9D9-6D6F3F23BE0D"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "179AB058-CA39-4E49-960C-AB1833A27858",
-      "overrideName": "153009D9-58BB-48A0-9C01-A80C2DDB70C4_symbolID",
-      "value": "D515B60A-A6CD-4D7B-AE5C-7C50B8593F06"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "721EFC26-F9BD-4E41-9A8C-C8887B34C89E",
-      "overrideName": "FCDA0DA3-A870-495C-A003-7123E26CE1CC_symbolID",
-      "value": "7C2C2889-A863-4870-B6E1-CE4957C454F0"
-    },
-    {
-      "_class": "overrideValue",
       "do_objectID": "A0BCABB3-945D-4DAA-A7FF-318BF2C4B00B",
       "overrideName": "44C9305B-7E47-4199-A400-441E0AF519C5/DB35D82B-BF5E-4F51-9168-E0D6A5358736_stringValue",
       "value": "News Article"

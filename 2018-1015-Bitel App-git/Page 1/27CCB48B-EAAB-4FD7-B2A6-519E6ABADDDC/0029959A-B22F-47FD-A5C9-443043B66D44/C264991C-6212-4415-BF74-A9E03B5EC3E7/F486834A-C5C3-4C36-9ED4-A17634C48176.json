@@ -31,11 +31,11 @@
             "minimumLineHeight": 16
           }
         },
-        "length": 4,
+        "length": 9,
         "location": 0
       }
     ],
-    "string": "NEWS"
+    "string": "NOVEDADES"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -61,7 +61,7 @@
     "x": 19.5,
     "y": 16
   },
-  "glyphBounds": "{{50, 2}, {42, 12}}",
+  "glyphBounds": "{{25, 2}, {92, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -70,7 +70,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "NEWS",
+  "name": "NOVEDADES",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
