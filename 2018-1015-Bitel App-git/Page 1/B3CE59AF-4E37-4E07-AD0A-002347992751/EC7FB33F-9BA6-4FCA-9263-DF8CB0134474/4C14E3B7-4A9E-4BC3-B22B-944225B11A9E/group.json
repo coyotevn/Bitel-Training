@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4C14E3B7-4A9E-4BC3-B22B-944225B11A9E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6C43EA7E-F381-4BCC-B936-5377E32524D9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5F7AD7F4-79E6-4032-BF2B-FF734D7F87F6",
+    "height": 64,
+    "width": 345,
+    "x": 0,
+    "y": 155
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "27690BF3-899F-4EB6-9175-F488077C4ED2"
+    },
+    {
+      "class": "group",
+      "id": "9BE86EE8-0FB9-4E8A-8751-F045186F1570"
+    }
+  ],
+  "name": "ACCOUNT SWITCHER",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8EDE4C44-6277-4A67-AF84-706EACE9A6EE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

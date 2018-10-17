@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "273F72DB-6FAB-42ED-A34F-55A8F94ADB5E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E76EFCF3-6DA3-4014-A89A-3849591A8811",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "735EAD95-658C-4BD2-8A8F-EDD43DEFC130",
+    "height": 57,
+    "width": 224,
+    "x": 72,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "A9F70696-3187-4288-B9BC-5ED5A91531E4"
+    }
+  ],
+  "name": "RecentNews 2 Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "79FDB17C-BE08-47B2-B7D2-E31AFB631D5A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

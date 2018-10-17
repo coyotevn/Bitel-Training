@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "533794A4-98C4-4A9D-96D6-760C1F6925E7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A7EB9483-F7E9-4E0A-A73D-0F43459E1AA4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8D54E303-E707-4963-8D8A-87AA1D200C45",
+    "height": 126,
+    "width": 340,
+    "x": 10,
+    "y": 614
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Sheets / Bottom Sheet",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "616FCFA6-5F09-4BE7-9C41-AFA81CC2D785",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5698B36B-0819-4658-9A4D-A8C7E72EE9D9",
+  "verticalSpacing": 0
+}

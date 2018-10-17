@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FF1F2EE9-8889-487F-B1FA-13D531C18E3E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3C5A0991-DF1B-472C-9DD8-442CC4747282",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "50023842-DBA8-4494-97E6-6FD61132CC99",
+    "height": 206,
+    "width": 248,
+    "x": 264,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "courses-med",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E6429C45-8C88-45E1-A9F8-97F3FB2FDDDE",
+      "overrideName": "EEC530E9-0B28-4C40-8D4B-80B58D233F67_stringValue",
+      "value": "Anonymous Proxy"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "69EAAE37-E9FC-4EE6-84DE-7832A4221040",
+      "overrideName": "10CAC9C8-D2B1-430F-BE7C-89DE97D2B714_stringValue",
+      "value": "CATEGORÍA"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0D690F47-B6AF-4AD8-A7E8-AAF258E81FCD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "54BD15CD-FE83-480A-AFFC-FA619E31B08B",
+  "verticalSpacing": 0
+}

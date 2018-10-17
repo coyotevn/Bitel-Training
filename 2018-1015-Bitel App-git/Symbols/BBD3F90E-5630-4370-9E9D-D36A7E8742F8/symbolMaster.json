@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "0028B0FD-E683-4ACA-8AB0-AD5BD191ECFE",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 324,
+  "clippingMaskMode": 0,
+  "do_objectID": "BBD3F90E-5630-4370-9E9D-D36A7E8742F8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4DDA655A-4EA9-4047-9EF5-0BAAB3AA4362",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8DCD6FE5-683D-4DEC-A6F6-3537E487F141",
+    "height": 22,
+    "width": 26,
+    "x": 2261,
+    "y": 524
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A042DAFF-66FD-444A-B053-80B6E0B85EF6",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "690C6B6A-A91D-4BDF-A1E8-B31763155E2F"
+    }
+  ],
+  "name": "3points/ chat",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7716BC19-86C2-4841-A7FC-2A2002BA37B1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F6D28AF1-CF02-4AC5-B772-5CCD00369C35",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "64DEA4BD-1232-4CB7-B7B7-BCE2FC49175C",
+    "guides": [
+    ]
+  }
+}

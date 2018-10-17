@@ -1,0 +1,89 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8CC16EEE-8A1F-4378-922C-3A11AB84612F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AAC43AE9-6D98-4C04-9022-434A8FF4EE21",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F6A1B764-8D10-4CDA-B0F0-8345432C6AA2",
+    "height": 644,
+    "width": 288,
+    "x": 8,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "C85E85E0-D316-4250-9B01-1CF0AF2BCBE7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1C29AC87-97F1-4FA4-8292-601CA3E3CCE1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C74BF0A3-D97B-4A4A-B131-962196FCFBDE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "15E8E405-F09B-45F8-9EC4-CB6F949488F3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FD438926-89A5-4D78-B949-FD6D30225651"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CCD17482-49DB-493E-A15F-E91873797992"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "96A74770-9210-435F-ADF2-FF6F2CE48A82"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EDE7FDD4-C0BC-469C-B0FA-CEDDF16ACD06"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3C3383B2-47E4-41EC-A2A9-4BF0D6AE1C1C"
+    },
+    {
+      "class": "rectangle",
+      "id": "7381909B-4859-4364-944B-564274C9A6B7"
+    }
+  ],
+  "name": "Text Labels",
+  "nameIsFixed": true,
+  "resizingConstraint": 10,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EA934CA9-2596-44D9-8A64-B54EF467B500",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

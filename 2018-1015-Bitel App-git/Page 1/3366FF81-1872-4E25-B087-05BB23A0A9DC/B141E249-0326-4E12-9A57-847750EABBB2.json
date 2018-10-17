@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B141E249-0326-4E12-9A57-847750EABBB2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D17DF1CD-155D-4A51-A92C-AC940F02DEE1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BD25D22F-D2C7-4135-99F2-C43164F016DB",
+    "height": 36,
+    "width": 300,
+    "x": 26,
+    "y": 454
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Buttons / Contained / Enabled Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C6E19B8F-6048-4B2D-B632-CEBBB2DAA808",
+      "overrideName": "6F34BAE2-6847-4557-B4EF-040D9FD31DC6/795E42AC-B672-4179-8C16-F51F6144C953_stringValue",
+      "value": "Tomar otro examen"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0B3483D9-7A7F-4745-91F5-7EF71BE53FC7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F2A580B6-5AF7-423C-9FE0-B3C15E868DE4",
+  "verticalSpacing": 0
+}

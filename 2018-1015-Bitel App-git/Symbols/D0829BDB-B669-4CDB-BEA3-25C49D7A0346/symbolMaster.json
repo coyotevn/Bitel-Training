@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "FC2AFD85-1B06-420E-A91E-22DD93F3F4C0",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 727,
+  "clippingMaskMode": 0,
+  "do_objectID": "D0829BDB-B669-4CDB-BEA3-25C49D7A0346",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5ED0264F-9478-47B3-B2E8-4A7543BA5977",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0BBDF7F2-B90C-4F0D-A3F7-9D55617619C9",
+    "height": 22,
+    "width": 26,
+    "x": 2261,
+    "y": 280
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "71988142-4C9B-43E6-987A-D7671DB924C0",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "8E30EDB1-9F06-42CD-857C-78E5E76A1550"
+    }
+  ],
+  "name": "comments / bell solid no",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "12656E9B-AC51-4034-8EEB-CDEB7B2D750A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "866789A3-2974-4A50-8ACB-B052527FD00C",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "42BB0960-259B-4EEE-A2AE-7C1207B97189",
+    "guides": [
+    ]
+  }
+}

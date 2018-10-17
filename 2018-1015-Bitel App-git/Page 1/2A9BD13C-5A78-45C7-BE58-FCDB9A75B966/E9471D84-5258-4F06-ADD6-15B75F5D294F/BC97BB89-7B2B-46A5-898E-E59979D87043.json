@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BC97BB89-7B2B-46A5-898E-E59979D87043",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7DF28575-3364-4403-B3B5-A2C46D5B2507",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "13A521C4-4A81-40C4-83D5-9B259A97A0C8",
+    "height": 100,
+    "width": 360,
+    "x": 0,
+    "y": 400
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Courses Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "E8EE4E5C-282A-4B78-ADA7-36A47BBABD18_stringValue",
+      "value": "Paga y recarga tu línea Bitel sin megas"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "3D95504E-EAA0-4265-A534-FF2B1C42BF5E_stringValue",
+      "value": "Promociones"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D0AE85BC-1EA2-4657-9B96-DC6BC0BC4462",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A8C5F1CC-6F8E-4B2C-9BF5-D6DDDA8B715C",
+  "verticalSpacing": 0
+}

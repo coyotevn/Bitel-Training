@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5D418645-B0C7-4184-AECD-8F85E06097AE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CAD337C5-BFA0-4B89-816C-3CBBA395AA08",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "269D616D-BDBE-42D4-BA7B-450501328638",
+    "height": 3,
+    "width": 178,
+    "x": 151,
+    "y": 407
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Progress Indicators / Linear",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1B22B9E5-AB6B-4AA2-B93A-7EE1E542386F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "ECCF65D7-E6BA-4F0D-8057-181EDFDC29DD",
+  "verticalSpacing": 0
+}
