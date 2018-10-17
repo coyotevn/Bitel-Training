@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BE74B5D8-06D3-43DD-893C-43F3CA427C3E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5C33CD41-625C-4A93-AC46-F537D92FF68A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6B57E000-7ECE-46B1-B735-A25EFB416075",
+    "height": 206,
+    "width": 528,
+    "x": 13,
+    "y": 683
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "07896850-170E-45A0-ABA5-EDE96C90CF27"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CC41F86E-7AFE-47F4-B017-5844F81DAE70"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9AEC6E61-E684-4F19-ABCE-45B18CF7BBF8"
+    }
+  ],
+  "name": "courses-med 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "ADF87FDC-A039-43BF-B85C-045AF87ED4AC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

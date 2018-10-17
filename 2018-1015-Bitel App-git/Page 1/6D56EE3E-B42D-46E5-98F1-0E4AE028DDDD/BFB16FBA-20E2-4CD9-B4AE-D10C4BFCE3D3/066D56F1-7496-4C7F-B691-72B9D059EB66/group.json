@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "066D56F1-7496-4C7F-B691-72B9D059EB66",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ADA49E8B-9C51-4A2F-AAE9-F0A17E14396C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "81967502-2DAB-47F4-B0A8-5E554EF88A96",
+    "height": 101,
+    "width": 360,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E802E7D9-8673-40F8-83E4-3B0039A78BEB"
+    },
+    {
+      "class": "group",
+      "id": "8D92BD3F-A810-4882-878B-9E6384142134"
+    }
+  ],
+  "name": "Courses",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3082036B-AADC-49D5-BB0F-EE42DC813545",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

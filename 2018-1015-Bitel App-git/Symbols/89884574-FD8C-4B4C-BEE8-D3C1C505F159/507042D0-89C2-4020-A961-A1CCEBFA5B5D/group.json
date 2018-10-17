@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "507042D0-89C2-4020-A961-A1CCEBFA5B5D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 56,
+    "width": 414,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "90348F82-8B42-4095-82F3-5596A0D28D77"
+    },
+    {
+      "class": "text",
+      "id": "7EBDBCB2-43F2-4248-8A39-2604FAF3F032"
+    },
+    {
+      "class": "text",
+      "id": "6111B2A0-FC10-435B-B108-DCAF62735262"
+    },
+    {
+      "class": "text",
+      "id": "FB5B817A-2931-4C49-ABE0-203E49640F5E"
+    },
+    {
+      "class": "text",
+      "id": "F75AB550-C2B0-4E19-AC93-ABE238CAD00D"
+    }
+  ],
+  "name": "selected-lesson",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

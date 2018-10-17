@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "86B99FB1-C986-46A8-814F-2E358DB9F8A9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 56,
+    "width": 360,
+    "x": 0,
+    "y": 23
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "E2AD5297-A09D-49D8-966E-F79FD13C9E92"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "032BD20F-B377-4816-9602-11F4E798D6D5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F396A7D2-3810-4DEB-865B-0E09F8AB4EF7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "64C0FF90-1E51-43B2-AB6D-254D9ED88CAB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CC824935-3C3B-4E9A-B36E-6CC035EE5B1C"
+    }
+  ],
+  "name": "App Bar / Top App Bar / Regular / Raised / Primary Color Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

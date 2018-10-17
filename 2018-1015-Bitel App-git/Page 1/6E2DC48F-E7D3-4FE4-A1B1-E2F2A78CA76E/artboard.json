@@ -1,0 +1,171 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9686274509803922,
+    "do_objectID": "A04AAD0A-C12C-4AA1-AD26-0A3032509819",
+    "green": 0.9686274509803922,
+    "red": 0.9686274509803922
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6E2DC48F-E7D3-4FE4-A1B1-E2F2A78CA76E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "844284AF-2C4D-4D35-A2D8-27BCA4B72F30",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F9A82822-E7B2-456A-A1A9-CE167AAB35DA",
+    "height": 740,
+    "width": 360,
+    "x": 3020,
+    "y": -371
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "B59DA313-D658-4F9F-AEE8-8E5A19CD1F96",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "418F4610-C3A4-48C1-9AE0-1F447344AEB2",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "7A263096-4C9F-4A22-B337-BAE6DFCE792F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5569AEBE-5E72-4C31-BDBB-F23A37BB74D2"
+    },
+    {
+      "class": "rectangle",
+      "id": "F2BF2393-A730-4864-AE6B-AD3280497F70"
+    },
+    {
+      "class": "text",
+      "id": "1B3B1301-0719-4099-B1F1-1EA3E5C01309"
+    },
+    {
+      "class": "text",
+      "id": "C568AF6B-5894-4E39-A2A8-4F2628A2E0DA"
+    },
+    {
+      "class": "text",
+      "id": "1E2D7471-23CB-489D-AEEA-C8BA11DDED29"
+    },
+    {
+      "class": "text",
+      "id": "F856D2F7-FDDC-438B-87B3-B77E9C2E20BB"
+    },
+    {
+      "class": "shapePath",
+      "id": "29D86AEC-9048-456D-B5E1-42A6BD77FDF7"
+    },
+    {
+      "class": "shapePath",
+      "id": "66FB54EB-EFD0-4B27-8A22-EF89C4390208"
+    },
+    {
+      "class": "text",
+      "id": "C7F4DD41-9B1D-49E1-9157-F7902F553589"
+    },
+    {
+      "class": "text",
+      "id": "34E0204F-6F97-41AF-9653-F1645E33BAD6"
+    },
+    {
+      "class": "text",
+      "id": "7C7511BF-61E7-4A2F-8782-DD64882346B0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2078A15F-E1E0-47D5-A328-CBB9F172D33A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3291FA50-30AD-40B1-B995-283D0181C747"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 50,
+    "do_objectID": "B1CE7BA2-3960-4C00-A390-91C44CD47132",
+    "drawHorizontal": true,
+    "drawHorizontalLines": true,
+    "drawVertical": true,
+    "gutterHeight": 16,
+    "gutterWidth": 22,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 5,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 360
+  },
+  "name": "Course Details-lessons",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 740,
+    "name": "Galaxy S8",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DAE6EA1C-D9F7-4ED7-AD26-B16EC92313E3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "612B5D45-F748-4CDD-B3A8-27B262E9B408",
+    "guides": [
+    ]
+  }
+}

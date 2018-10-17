@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "58700FB6-393E-4540-A792-B6028352FEA8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8F4694EF-37E6-47B6-B0D9-62F6CCE7A386",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "22569DEB-A7FB-410C-8F66-C7B00B2D82F5",
+    "height": 56,
+    "width": 340,
+    "x": 0,
+    "y": 152
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "7E0CA40B-B35C-4475-8C01-4837124AC3F7"
+    },
+    {
+      "class": "text",
+      "id": "A39DF76C-510B-4DD9-BAB3-FDA09A35CFE4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "569DFD9E-13AC-4BA4-A1DD-A64D73DDEE61"
+    }
+  ],
+  "name": "News-list",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6EE84EBC-A4F7-4D71-968E-826658473C0D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

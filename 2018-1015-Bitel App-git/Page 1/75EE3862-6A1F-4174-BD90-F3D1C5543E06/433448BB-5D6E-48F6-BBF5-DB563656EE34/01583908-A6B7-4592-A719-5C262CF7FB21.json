@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "01583908-A6B7-4592-A719-5C262CF7FB21",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "60EBEE65-61B8-4865-B883-247845999B17",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1D0AE5CD-3FC3-40CC-A36C-0F462CD3931B",
+    "height": 206,
+    "width": 165,
+    "x": 362,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "small-courses",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6453B37B-D696-4AF9-BDDF-02E9CF7432A9",
+      "overrideName": "D94D6D4F-A16B-4AE9-BC45-162BD10A0C97_stringValue",
+      "value": "Branding Do You Know Who You Are"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AF0C6934-05C8-4FA0-AE4B-963ED3548C91",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "65DE27E6-3930-4E2D-B8B2-9C65E01A089B",
+  "verticalSpacing": 0
+}

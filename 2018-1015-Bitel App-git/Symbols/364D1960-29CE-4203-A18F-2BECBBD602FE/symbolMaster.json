@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "A997523C-8905-4B83-889C-F7856EF78E71",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 289,
+  "clippingMaskMode": 0,
+  "do_objectID": "364D1960-29CE-4203-A18F-2BECBBD602FE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "54B32125-CD43-49F2-A1B3-53C24D1830D8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "32B17D58-9E25-4D0A-BB81-0C594263FFFF",
+    "height": 22,
+    "width": 26,
+    "x": 2261,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "251ABEDB-7CAF-43BC-B2B6-C7CC8F92D37E",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "AD8502FD-1D2B-47C0-B8A5-5385AEF6101A"
+    }
+  ],
+  "name": "comments / light blue",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E42AAE84-9268-4A77-AB61-FB9ECE830E31",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F0080FBE-E010-4A02-A9D9-6D6F3F23BE0D",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D011E625-C101-4060-97D8-F5AD9D553CB0",
+    "guides": [
+    ]
+  }
+}

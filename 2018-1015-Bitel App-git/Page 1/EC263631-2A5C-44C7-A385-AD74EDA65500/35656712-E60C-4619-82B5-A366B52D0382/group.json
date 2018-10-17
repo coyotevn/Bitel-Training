@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "35656712-E60C-4619-82B5-A366B52D0382",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "20FD5F1A-3155-4BD4-B0B2-139B1E90881D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "71D079A1-A91A-4451-9CC1-117BFDB99104",
+    "height": 864,
+    "width": 360,
+    "x": 19,
+    "y": 1083.5
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "43E23D37-6460-4ED7-8877-A46490BE25D1"
+    },
+    {
+      "class": "group",
+      "id": "48F18A6B-4E37-46A3-B275-2B9AB63CA8F0"
+    },
+    {
+      "class": "group",
+      "id": "DA61A170-C0E5-4CAF-B496-77DBD45E0730"
+    },
+    {
+      "class": "group",
+      "id": "4752A3E3-9E99-48BA-963A-AE7A42D17AF4"
+    },
+    {
+      "class": "group",
+      "id": "18DAC6FB-9762-4D29-9F64-DFA612BB91E4"
+    }
+  ],
+  "name": "RecentNews 2 Copy 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B9D8785D-3DA0-419C-BF0F-7EE2616C9C64",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
