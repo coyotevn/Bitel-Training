@@ -46,7 +46,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -82,8 +82,8 @@
       "id": "3F2B8E41-47BC-443E-93F9-63BA8DAC1747"
     },
     {
-      "class": "text",
-      "id": "A326F239-118D-4E5F-B0F2-0D98DC07D37B"
+      "class": "group",
+      "id": "6CD98557-7257-4B21-BBA3-77EA2479A8B7"
     }
   ],
   "layout": {

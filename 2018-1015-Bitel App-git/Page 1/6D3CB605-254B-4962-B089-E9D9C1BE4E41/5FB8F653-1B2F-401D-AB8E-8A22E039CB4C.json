@@ -43,7 +43,7 @@
       "_class": "overrideValue",
       "do_objectID": "D7A52D46-E76E-4F76-B215-41F5AC0D6146",
       "overrideName": "46287150-A150-450F-9263-725ED415E23F/6204EA1A-6F42-4991-8748-D1B87479FF2F_stringValue",
-      "value": "Password"
+      "value": "Contraseña"
     },
     {
       "_class": "overrideValue",
@@ -62,6 +62,12 @@
       "do_objectID": "4AF66823-3FE6-41E9-804A-19931E409A85",
       "overrideName": "DA222618-46C4-4875-9156-FED359A15887/6204EA1A-6F42-4991-8748-D1B87479FF2F_stringValue",
       "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DAB15A1A-A643-4031-BE6C-560ECF07D2B6",
+      "overrideName": "1B45519B-AE55-403D-BFD6-887FFA8904E6_symbolID",
+      "value": ""
     }
   ],
   "resizingConstraint": 63,

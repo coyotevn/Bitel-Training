@@ -30,11 +30,11 @@
             "minimumLineHeight": 24
           }
         },
-        "length": 17,
+        "length": 21,
         "location": 0
       }
     ],
-    "string": "Forgot Password?!"
+    "string": "Recordar contraseña  "
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,11 +54,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 124,
-    "x": 118,
-    "y": 694
+    "width": 148,
+    "x": 31,
+    "y": 0
   },
-  "glyphBounds": "{{1, 6}, {122, 15}}",
+  "glyphBounds": "{{4, 6}, {139, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Forgot Password?!",
+  "name": "Recordar contraseña",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
